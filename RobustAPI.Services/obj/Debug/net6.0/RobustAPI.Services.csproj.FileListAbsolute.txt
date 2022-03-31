@@ -1,0 +1,5 @@
+C:\Users\karim.moustamid\OneDrive - AgileThought\Desktop\AT-camp\01-dotnet\Unit Testing\RobustAPI\RobustAPI.Services\obj\Debug\net6.0\RobustAPI.Services.csproj.AssemblyReference.cache
+C:\Users\karim.moustamid\OneDrive - AgileThought\Desktop\AT-camp\01-dotnet\Unit Testing\RobustAPI\RobustAPI.Services\obj\Debug\net6.0\RobustAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim.moustamid\OneDrive - AgileThought\Desktop\AT-camp\01-dotnet\Unit Testing\RobustAPI\RobustAPI.Services\obj\Debug\net6.0\RobustAPI.Services.AssemblyInfoInputs.cache
+C:\Users\karim.moustamid\OneDrive - AgileThought\Desktop\AT-camp\01-dotnet\Unit Testing\RobustAPI\RobustAPI.Services\obj\Debug\net6.0\RobustAPI.Services.AssemblyInfo.cs
+C:\Users\karim.moustamid\OneDrive - AgileThought\Desktop\AT-camp\01-dotnet\Unit Testing\RobustAPI\RobustAPI.Services\obj\Debug\net6.0\RobustAPI.Services.csproj.CoreCompileInputs.cache

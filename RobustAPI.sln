@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobustAPI.Models", "RobustAPI.Models\RobustAPI.Models.csproj", "{6784D9B0-E23E-49DA-B649-2FC12123CE1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobustAPI.Services", "RobustAPI.Services\RobustAPI.Services.csproj", "{8668F451-F539-4F52-BC7F-7D9EA5BD22FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6784D9B0-E23E-49DA-B649-2FC12123CE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6784D9B0-E23E-49DA-B649-2FC12123CE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6784D9B0-E23E-49DA-B649-2FC12123CE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6784D9B0-E23E-49DA-B649-2FC12123CE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8668F451-F539-4F52-BC7F-7D9EA5BD22FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8668F451-F539-4F52-BC7F-7D9EA5BD22FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8668F451-F539-4F52-BC7F-7D9EA5BD22FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8668F451-F539-4F52-BC7F-7D9EA5BD22FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
